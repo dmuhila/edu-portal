@@ -1,0 +1,75 @@
+{
+    "courses": [
+        {
+            "cname": "Diversity Prelim",
+            "cid": "001",
+            "cdesc": "Preliminary course on diversity",
+            "ccat": "Diversity",
+            "lessons": [ 
+              {
+                "lname" : "Lesson 1", 
+                "t1" : "Topic 11",
+                "t2" : "Topic 12"
+               },
+               {
+                "lname" : "Lesson 2",
+                "t1" : "Topic 21",
+                "t2" : "Topic 22"
+               },
+               {
+                "lname" : "Lesson 3",
+                "t1" : "Topic 31",
+                "t2" : "Topic 32"
+               }
+            ]
+        },
+        {
+            "cname": "Diversity Inter",
+            "cid": "002",
+            "cdesc": "Inter course on diversity",
+            "ccat": "Diversity"
+        },
+        {
+            "cname": "Diversity Main",
+            "cid": "003",
+            "cdesc": "Main course on diversity",
+            "ccat": "Diversity"
+        },
+        {
+            "cname": "Inclusion Prelim",
+            "cid": "004",
+            "cdesc": "Preliminary course on Inclusion",
+            "ccat": "Inclusion"
+        },
+        {
+            "cname": "Inclusion Inter",
+            "cid": "005",
+            "cdesc": "Inter course on Inclusion",
+            "ccat": "Inclusion"
+        },
+        {
+            "cname": "Inclusion Main",
+            "cid": "006",
+            "cdesc": "Main course on Inclusion",
+            "ccat": "Inclusion"
+        },
+        {
+            "cname": "iSecurity Prelim",
+            "cid": "007",
+            "cdesc": "Preliminary course on iSecurity",
+            "ccat": "iSecurity"
+        },
+        {
+            "cname": "iSecurity Inter",
+            "cid": "008",
+            "cdesc": "Inter course on iSecurity",
+            "ccat": "iSecurity"
+        },
+        {
+            "cname": "iSecurity Main",
+            "cid": "009",
+            "cdesc": "Main course on iSecurity",
+            "ccat": "iSecurity"
+        }
+    ]
+}
